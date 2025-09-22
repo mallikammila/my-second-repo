@@ -2,3 +2,4 @@
 Student portal Demo
 Attednence tracking system
 Academic Details
+fee details
